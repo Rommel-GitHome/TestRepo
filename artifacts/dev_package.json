@@ -1,10 +1,11 @@
 {
-	"id": "94f996cd-536d-4474-8493-d6583080f459",
-	"createdAt": "2022-05-23T17:00:25.686Z",
+	"id": "b6c91361-db2b-4d13-aa69-1c971fd05cb7",
+	"createdAt": "2022-03-16T21:29:43.656Z",
 	"createdBy": "admin",
 	"git": {
 		"targetServers": [],
 		"remote": "https://github.com/Rommel-GitHome/TestRepo",
+		"testServers": [],
 		"packageJSON": [
 			"==OBJECT STRING==",
 			"{",
@@ -33,9 +34,9 @@
 			""
 		]
 	},
-	"name": "sdgsdgdsg",
+	"name": "TestREpo",
 	"description": null,
-	"ver": "22.5.23.172",
+	"ver": "22.5.23.1751",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
