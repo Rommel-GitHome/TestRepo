@@ -1,0 +1,34 @@
+{
+	"id": "ead839c4-d2c9-4eee-ad04-663032004515",
+	"createdAt": "2022-02-09T17:52:05.630Z",
+	"createdBy": "admin",
+	"scripts": [
+		{
+			"id": "2f2d12d3-db95-4071-bf58-89b66f90efe6",
+			"name": "errorScript",
+			"number": 1,
+			"abort": true,
+			"continue": false,
+			"skipto": false
+		}
+	],
+	"name": "sdgsdgdsg",
+	"description": null,
+	"alertEmail": "rommel@neptune-software.com;jantri@gmail.com; rommel.lamanilao@gmail.com",
+	"active": false,
+	"execStatus": "Job Completed",
+	"lastExecStartTime": null,
+	"lastExecStopTime": "2022-03-29T18:42:45.477Z",
+	"intervalMonths": null,
+	"intervalDays": null,
+	"intervalHours": null,
+	"intervalMinutes": null,
+	"intervalSeconds": 10,
+	"maxRuntimeSeconds": "0",
+	"startdate": "2022-03-29T18:42:46.963Z",
+	"stopdate": "9999-12-31T00:00:00.000Z",
+	"executeInNextCycle": false,
+	"ver": "22.5.23.1756",
+	"machineId": "296c9c6d12b761e3e992c2c527fb1d568b5f33f6b5c14c32abe92456bf6668e2",
+	"package": "b6c91361-db2b-4d13-aa69-1c971fd05cb7"
+}

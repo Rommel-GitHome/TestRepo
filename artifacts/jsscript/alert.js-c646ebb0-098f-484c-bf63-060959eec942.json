@@ -1,0 +1,19 @@
+{
+	"id": "c646ebb0-098f-484c-bf63-060959eec942",
+	"createdAt": "2022-05-23T19:11:51.647Z",
+	"createdBy": "admin",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "alert.js",
+	"ver": "22.5.23.1912",
+	"description": null,
+	"content": "console.log(\"test\");",
+	"useAsGlobalScript": false,
+	"isTypescript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": true,
+	"jsscriptGroup": "d7a78406-b5fd-4940-a2bd-e8375058925a",
+	"package": "b6c91361-db2b-4d13-aa69-1c971fd05cb7"
+}

@@ -43,8 +43,20 @@
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
-	"jsclass": [],
-	"jsscript_group": [],
+	"jsclass": [
+		{
+			"id": "c646ebb0-098f-484c-bf63-060959eec942",
+			"name": "alert.js",
+			"description": null
+		}
+	],
+	"jsscript_group": [
+		{
+			"id": "d7a78406-b5fd-4940-a2bd-e8375058925a",
+			"name": "sample_project",
+			"description": null
+		}
+	],
 	"theme": [],
 	"pdf": [],
 	"rulesengine": [],
@@ -60,7 +72,13 @@
 	"doc": [],
 	"wf_notifications": [],
 	"department": [],
-	"script_scheduler": [],
+	"script_scheduler": [
+		{
+			"id": "ead839c4-d2c9-4eee-ad04-663032004515",
+			"name": "sdgsdgdsg",
+			"description": null
+		}
+	],
 	"wf_definition": [],
 	"connector": []
 }
