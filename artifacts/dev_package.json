@@ -1,11 +1,10 @@
 {
-	"id": "b6c91361-db2b-4d13-aa69-1c971fd05cb7",
-	"createdAt": "2022-03-16T21:29:43.656Z",
-	"createdBy": "admin",
+	"id": "ba512d7c-a3b5-4288-a0c7-1955a56312bd",
+	"createdAt": "2022-06-15T12:48:28.273Z",
+	"createdBy": "rommel",
 	"git": {
 		"targetServers": [],
 		"remote": "https://github.com/Rommel-GitHome/TestRepo",
-		"testServers": [],
 		"packageJSON": [
 			"==OBJECT STRING==",
 			"{",
@@ -34,29 +33,17 @@
 			""
 		]
 	},
-	"name": "TestREpo",
+	"name": "Package 713",
 	"description": null,
-	"ver": "22.5.23.1751",
+	"ver": "22.6.15.1259",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
 	"dictionary": [],
-	"jsclass": [
-		{
-			"id": "c646ebb0-098f-484c-bf63-060959eec942",
-			"name": "alert.js",
-			"description": null
-		}
-	],
-	"jsscript_group": [
-		{
-			"id": "d7a78406-b5fd-4940-a2bd-e8375058925a",
-			"name": "sample_project",
-			"description": null
-		}
-	],
+	"jsclass": [],
+	"jsscript_group": [],
 	"theme": [],
 	"pdf": [],
 	"rulesengine": [],
@@ -72,13 +59,7 @@
 	"doc": [],
 	"wf_notifications": [],
 	"department": [],
-	"script_scheduler": [
-		{
-			"id": "ead839c4-d2c9-4eee-ad04-663032004515",
-			"name": "sdgsdgdsg",
-			"description": null
-		}
-	],
+	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": []
 }
