@@ -31,11 +31,12 @@
 			"  }",
 			"}",
 			""
-		]
+		],
+		"testServers": []
 	},
 	"name": "Package 713",
-	"description": null,
-	"ver": "22.6.15.1259",
+	"description": "Test",
+	"ver": "22.6.15.130",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
