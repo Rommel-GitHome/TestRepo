@@ -1,6 +1,6 @@
 {
-	"id": "ba512d7c-a3b5-4288-a0c7-1955a56312bd",
-	"createdAt": "2022-06-15T12:48:28.273Z",
+	"id": "f4b2ff69-1322-458a-b346-a5f9c993ebda",
+	"createdAt": "2022-06-16T21:27:26.885Z",
 	"createdBy": "rommel",
 	"git": {
 		"targetServers": [],
@@ -31,12 +31,11 @@
 			"  }",
 			"}",
 			""
-		],
-		"testServers": []
+		]
 	},
 	"name": "Package 713",
-	"description": "Test",
-	"ver": "22.6.15.130",
+	"description": null,
+	"ver": "22.6.16.2127",
 	"enableCICD": true,
 	"apps": [],
 	"api": [],
